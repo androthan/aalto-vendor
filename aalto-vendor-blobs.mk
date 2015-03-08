@@ -72,7 +72,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/aalto/proprietary/sensors/bin/orientationd:system/bin/orientationd \
     vendor/samsung/aalto/proprietary/sensors/bin/memsicd:system/bin/memsicd \
     vendor/samsung/aalto/proprietary/sensors/lib/hw/sensors.aalto.so:system/lib/hw/sensors.aalto.so \
-    vendor/samsung/aalto/proprietary/sensors/lib/hw/lights.aalto.so:system/lib/hw/lights.aalto.so
 
 # wifi
 PRODUCT_COPY_FILES += \
